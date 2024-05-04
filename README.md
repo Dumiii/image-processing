@@ -1,6 +1,6 @@
 # Introduction
 
-These two small projects were developed as a compliment to [The Complete Python Developer](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/16112769#overview) course I've recently finished. The jpg to png converter was a course project that I've made a few tweaks to improve and make it more readable after reading the documentation and the gif resizer was just a personal project to experiment and test a bit more of the library.
+These two small projects were developed as a complement to [The Complete Python Developer](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/16112769#overview) course I've recently finished. The jpg to png converter was a course project that I've made a few tweaks to improve and make it more readable after reading the documentation and the gif resizer was just a personal project to experiment and test a bit more of the library.
 
 <br/>
 
