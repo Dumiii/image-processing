@@ -2,7 +2,7 @@
 
 These two small projects were developed as a compliment to [The Complete Python Developer](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/16112769#overview) course I've recently finished. The jpg to png converter was a course project that I've made a few tweaks to improve and make it more readable after reading the documentation and the gif resizer was just a personal project to experiment and test a bit more of the library.
 
----
+<br/>
 
 # Requirements
 
@@ -12,7 +12,7 @@ Python3, pip and  Pillow are required, for convenience a requirements.txt file i
     <img width="640" src="https://raw.githubusercontent.com/dumiii/image-processing/master/images/install.png" alt="Download Instructions">
 </p>
 
----
+<br/>
 
 # Usage
 
@@ -23,11 +23,6 @@ For the jpg to png conversion all you have to do is supply the original images p
 </p>
 
 <br/>
-
----
-
-<br/>
-
 
 For the gif resizer, assuming the gif is in the same directory as the script:
 
